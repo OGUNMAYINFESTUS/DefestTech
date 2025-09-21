@@ -69,17 +69,17 @@ const About = () => {
     },
     {
       name: "Akinpelu Akinbulejo",
-      role: "Academic Director",
+      role: "Computer Engineering Instructor",
       experience: "10+ years in Education",
-      specialization: "Curriculum Development, Online Learning",
+      specialization: "Computer Engineering, Hardware, Networking",
     },
   ];
 
   const achievements = [
     { icon: Users, value: "50+", label: "Graduates" },
     { icon: Globe, value: "10+", label: "Countries" },
-    { icon: Award, value: "80%", label: "Job Placement Rate" },
-    { icon: Star, value: "4/5", label: "Student Rating" },
+    { icon: Award, value: "85%", label: "Job Placement Rate" },
+    { icon: Star, value: "3.9/5", label: "Student Rating" },
   ];
 
   return (
