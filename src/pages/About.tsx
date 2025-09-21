@@ -73,6 +73,12 @@ const About = () => {
       experience: "10+ years in Education",
       specialization: "Computer Engineering, Hardware, Networking",
     },
+    {
+      name: "John Adyandju",
+      role: "Friontend Development Instructor",
+      experience: "10+ years in Education",
+      specialization: "Frontend Development, React, UI/UX",
+    },
   ];
 
   const achievements = [
